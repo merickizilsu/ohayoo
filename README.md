@@ -1,4 +1,7 @@
-# HI !!
+# !! HI !! ![icons8-call-me-skin-type-5-30](https://user-images.githubusercontent.com/114092420/199610689-fe70f90c-0da5-468e-b238-29f14b6c6776.png)
+
+
+
 My name is Meric. I'm a IT student. I'm trying to learn C# , HTML and CSS :D
 
 
@@ -13,6 +16,8 @@ My name is Meric. I'm a IT student. I'm trying to learn C# , HTML and CSS :D
 ▼ [My YouTube Channel](https://youtube.com/channel/UCZJ_tzIVa-lQmLF3zUynx5A?sub_confirmation=1) ▼
 
 ![icons8-youtube-30](https://user-images.githubusercontent.com/114092420/199607895-2b5268fe-3354-4086-a58a-00a0c10f2a4e.png)
+
+
 
 
 
