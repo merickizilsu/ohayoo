@@ -5,7 +5,7 @@
 My name is Meric. I'm a IT student. I'm trying to learn C# , HTML and CSS :D
 
 
-▼[My Discord Profile](discord.com/users/790982026932912159) ▼
+▼[My Discord Profile](https://discord.com/users/790982026932912159) ▼
 
 ![icons8-discord-30](https://user-images.githubusercontent.com/114092420/199607336-60c1a90a-e215-44a3-918f-dc606f64c2df.png)  
 
