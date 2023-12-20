@@ -1,5 +1,4 @@
-# !! ohayo ![icons8-call-me-skin-type-5-30](https://user-images.githubusercontent.com/114092420/199610689-fe70f90c-0da5-468e-b238-29f14b6c6776.png)
-
+#  ohayo
 
 
 My name is Meric. I'm a IT student. I'm trying to learn C# , HTML and CSS :D
